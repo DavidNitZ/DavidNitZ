@@ -1,5 +1,4 @@
-from GitHubProfile import ReadMe
-from HaNoi import HoangMai
+
 
 class Profile(ReadMe):
 
